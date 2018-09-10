@@ -1,0 +1,23 @@
+{
+  "name": "gruntConfig",
+  "version": "1.0.0",
+  "description": "grunt Config",
+  "main": "index.js",
+  "repository": "eiiizong.top",
+  "scripts": {
+    "start": "grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eiiizong",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.1.5",
+    "cssnano": "^4.1.0",
+    "grunt": "^1.0.3",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-postcss": "^0.9.0",
+    "pixrem": "^4.0.1"
+  }
+}

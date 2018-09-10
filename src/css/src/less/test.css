@@ -1,0 +1,8 @@
+body {
+  color: #0122ff;
+  display: flex;
+}
+body .container {
+  background-color: #0122ff;
+  transform: scale(0.5);
+}

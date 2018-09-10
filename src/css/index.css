@@ -1,0 +1,10 @@
+body {
+  color: #0122ff;
+  display: flex;
+}
+body .container {
+  background-color: #0122ff;
+  transform: scale(0.5);
+  border: 1px solid #f00;
+  background-clip: border-box;
+}
