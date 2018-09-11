@@ -2,8 +2,8 @@
   "name": "gruntConfig",
   "version": "1.0.0",
   "description": "grunt Config",
-  "main": "index.js",
-  "repository": "eiiizong.top",
+  "main": "Gruntfile.js",
+  "repository": "https://github.com/eiiizong/grunt",
   "scripts": {
     "start": "grunt",
     "test": "echo \"Error: no test specified\" && exit 1"
